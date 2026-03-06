@@ -2,7 +2,7 @@ name: PatternSmith
 version: "0.1.0"
 slug: patternsmith
 description: Suggest Home Assistant automations by learning repeated manual actions
-url: "https://github.com/YOUR_GITHUB_USERNAME/ha-patternsmith"
+url: "https://github.com/chrismillsuk25/ha-patternsmith"
 arch:
   - aarch64
   - amd64

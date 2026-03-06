@@ -7,5 +7,5 @@ build_from:
 labels:
   org.opencontainers.image.title: "PatternSmith"
   org.opencontainers.image.description: "Automation suggestion engine for Home Assistant"
-  org.opencontainers.image.source: "https://github.com/YOUR_GITHUB_USERNAME/ha-patternsmith"
+  org.opencontainers.image.source: "https://github.com/chrismillsuk25/ha-patternsmith"
   org.opencontainers.image.licenses: "MIT"
